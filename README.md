@@ -25,7 +25,7 @@ Ensure you have the following installed:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your_username/emotion-detection-cnn.git
+    git clone https://github.com/Lokesh-DataScience/Emotion-Detection.git
     cd emotion-detection-cnn
     ```
 
